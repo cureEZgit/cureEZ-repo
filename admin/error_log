@@ -1,0 +1,569 @@
+[03-Nov-2016 04:50:38 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/childrenfe/public_html/acf/application/controllers/admin/slider.php on line 60
+[03-Nov-2016 05:31:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/childrenfe/public_html/acf/application/views/user/dashboard.php on line 187
+[03-Nov-2016 05:32:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/childrenfe/public_html/acf/application/views/user/dashboard.php on line 187
+[03-Nov-2016 05:32:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/childrenfe/public_html/acf/application/views/user/dashboard.php on line 187
+[03-Nov-2016 05:32:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/childrenfe/public_html/acf/application/views/user/dashboard.php on line 187
+[03-Nov-2016 07:47:40 UTC] PHP Fatal error:  Class 'FCKeditor' not found in /home/childrenfe/public_html/acf/application/views/pages/create_page.php on line 55
+[03-Nov-2016 07:50:07 UTC] PHP Fatal error:  Class 'FCKeditor' not found in /home/childrenfe/public_html/acf/application/views/pages/create_page.php on line 55
+[03-Nov-2016 07:50:10 UTC] PHP Fatal error:  Class 'FCKeditor' not found in /home/childrenfe/public_html/acf/application/views/pages/create_page.php on line 55
+[03-Nov-2016 07:53:48 UTC] PHP Fatal error:  Class 'FCKeditor' not found in /home/childrenfe/public_html/acf/application/views/pages/create_page.php on line 55
+[03-Nov-2016 07:54:26 UTC] PHP Fatal error:  Class 'FCKeditor' not found in /home/childrenfe/public_html/acf/application/views/pages/create_page.php on line 55
+[03-Nov-2016 07:54:52 UTC] PHP Fatal error:  require(): Failed opening required '../../editor/fckeditor.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/childrenfe/public_html/acf/application/views/pages/create_page.php on line 54
+[03-Nov-2016 07:55:24 UTC] PHP Fatal error:  Class 'FCKeditor' not found in /home/childrenfe/public_html/acf/application/views/pages/create_page.php on line 55
+[03-Nov-2016 07:57:01 UTC] PHP Fatal error:  Class 'FCKeditor' not found in /home/childrenfe/public_html/acf/application/views/pages/create_page.php on line 55
+[04-Nov-2016 04:49:54 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/childrenfe/public_html/acf/application/views/user/dashboard.php on line 83
+[04-Nov-2016 04:50:37 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/childrenfe/public_html/acf/application/views/user/dashboard.php on line 83
+[04-Nov-2016 05:24:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/childrenfe/public_html/acf/application/views/common_user/header.php on line 37
+[05-Nov-2016 05:20:24 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/childrenfe/public_html/acf/application/views/common_user/footer.php on line 20
+[05-Nov-2016 05:21:14 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/childrenfe/public_html/acf/application/views/common_user/footer.php on line 20
+[05-Nov-2016 05:49:48 UTC] PHP Fatal error:  Call to undefined method User_model::getBlogPost() in /home/childrenfe/public_html/acf/application/controllers/page.php on line 1223
+[05-Nov-2016 06:16:54 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/childrenfe/public_html/acf/application/views/user/posts.php on line 16
+[05-Nov-2016 06:18:11 UTC] PHP Parse error:  syntax error, unexpected '$pt' (T_VARIABLE), expecting ',' or ';' in /home/childrenfe/public_html/acf/application/views/user/posts.php on line 16
+[05-Nov-2016 06:18:36 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/childrenfe/public_html/acf/application/views/user/posts.php on line 16
+[05-Nov-2016 06:20:02 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/childrenfe/public_html/acf/application/views/user/posts.php on line 16
+[05-Nov-2016 06:20:50 UTC] PHP Parse error:  syntax error, unexpected '$pt' (T_VARIABLE), expecting ',' or ';' in /home/childrenfe/public_html/acf/application/views/user/posts.php on line 16
+[05-Nov-2016 06:21:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/childrenfe/public_html/acf/application/views/user/posts.php on line 31
+[05-Nov-2016 06:21:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/childrenfe/public_html/acf/application/views/user/posts.php on line 31
+[05-Nov-2016 06:22:09 UTC] PHP Parse error:  syntax error, unexpected '$pt' (T_VARIABLE), expecting ',' or ';' in /home/childrenfe/public_html/acf/application/views/user/posts.php on line 16
+[05-Nov-2016 06:22:22 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/childrenfe/public_html/acf/application/views/user/posts.php on line 16
+[05-Nov-2016 06:23:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/childrenfe/public_html/acf/application/views/user/posts.php on line 27
+[05-Nov-2016 06:25:37 UTC] PHP Parse error:  syntax error, unexpected '$pt' (T_VARIABLE), expecting ',' or ';' in /home/childrenfe/public_html/acf/application/views/user/posts.php on line 18
+[05-Nov-2016 06:38:37 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/childrenfe/public_html/acf/application/models/user_model.php on line 477
+[05-Nov-2016 06:39:45 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/childrenfe/public_html/acf/application/models/user_model.php on line 477
+[05-Nov-2016 06:40:42 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/childrenfe/public_html/acf/application/models/user_model.php on line 477
+[05-Nov-2016 06:40:58 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/childrenfe/public_html/acf/application/models/user_model.php on line 477
+[05-Nov-2016 06:42:01 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/childrenfe/public_html/acf/application/models/user_model.php on line 477
+[05-Nov-2016 06:42:54 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/childrenfe/public_html/acf/application/models/user_model.php on line 477
+[05-Nov-2016 06:52:34 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/childrenfe/public_html/acf/application/views/user/posts_detail.php on line 5
+[05-Nov-2016 15:53:21 Asia/Kolkata] PHP Fatal error:  Call to undefined function curent_url() in /home/childrenfe/public_html/acf/application/controllers/admin/gallery.php on line 632
+[05-Nov-2016 15:55:12 Asia/Kolkata] PHP Fatal error:  Call to undefined function curent_url() in /home/childrenfe/public_html/acf/application/controllers/admin/gallery.php on line 633
+[05-Nov-2016 16:07:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$ado' (T_VARIABLE), expecting ',' or ';' in /home/childrenfe/public_html/acf/application/views/admin/gallery/audioListing.php on line 52
+[05-Nov-2016 16:09:39 Asia/Kolkata] PHP Fatal error:  Call to undefined method Gallery_model::audio_row() in /home/childrenfe/public_html/acf/application/controllers/admin/gallery.php on line 649
+[05-Nov-2016 16:10:09 Asia/Kolkata] PHP Fatal error:  Call to undefined method Gallery_model::audio_row() in /home/childrenfe/public_html/acf/application/controllers/admin/gallery.php on line 649
+[05-Nov-2016 16:10:13 Asia/Kolkata] PHP Fatal error:  Call to undefined method Gallery_model::audio_row() in /home/childrenfe/public_html/acf/application/controllers/admin/gallery.php on line 649
+[05-Nov-2016 16:11:44 Asia/Kolkata] PHP Fatal error:  Call to undefined method Gallery_model::audio_row() in /home/childrenfe/public_html/acf/application/controllers/admin/gallery.php on line 649
+[05-Nov-2016 17:44:35 Asia/Kolkata] PHP Fatal error:  Call to a member function do_upload() on null in /home/childrenfe/public_html/acf/application/controllers/admin/gallery.php on line 866
+[05-Nov-2016 17:46:49 Asia/Kolkata] PHP Fatal error:  Call to undefined method Gallery_model::create_book() in /home/childrenfe/public_html/acf/application/controllers/admin/gallery.php on line 767
+[05-Nov-2016 17:50:25 Asia/Kolkata] PHP Fatal error:  Call to undefined method Gallery_model::create_book() in /home/childrenfe/public_html/acf/application/controllers/admin/gallery.php on line 767
+[05-Nov-2016 17:54:30 Asia/Kolkata] PHP Fatal error:  Call to undefined method Gallery_model::create_book() in /home/childrenfe/public_html/acf/application/controllers/admin/gallery.php on line 767
+[05-Nov-2016 18:04:31 Asia/Kolkata] PHP Fatal error:  Call to undefined method Gallery_model::create_book() in /home/childrenfe/public_html/acf/application/controllers/admin/gallery.php on line 767
+[05-Nov-2016 18:05:22 Asia/Kolkata] PHP Fatal error:  Call to undefined method Gallery_model::create_book() in /home/childrenfe/public_html/acf/application/controllers/admin/gallery.php on line 767
+[05-Nov-2016 18:07:12 Asia/Kolkata] PHP Fatal error:  Call to undefined method Gallery_model::create_book() in /home/childrenfe/public_html/acf/application/controllers/admin/gallery.php on line 767
+[05-Nov-2016 18:07:50 Asia/Kolkata] PHP Fatal error:  Call to undefined method Gallery_model::create_book() in /home/childrenfe/public_html/acf/application/controllers/admin/gallery.php on line 767
+[05-Nov-2016 18:10:44 Asia/Kolkata] PHP Fatal error:  Call to undefined method Gallery_model::book_row() in /home/childrenfe/public_html/acf/application/controllers/admin/gallery.php on line 787
+[05-Nov-2016 13:04:31 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/childrenfe/public_html/acf/application/controllers/admin/gallery.php on line 665
+[05-Nov-2016 13:04:39 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/childrenfe/public_html/acf/application/controllers/admin/gallery.php on line 665
+[05-Nov-2016 13:05:13 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/childrenfe/public_html/acf/application/controllers/admin/gallery.php on line 665
+[05-Nov-2016 13:06:04 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/childrenfe/public_html/acf/application/controllers/admin/gallery.php on line 665
+[05-Nov-2016 13:06:30 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/childrenfe/public_html/acf/application/controllers/admin/gallery.php on line 665
+[05-Nov-2016 13:09:35 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/childrenfe/public_html/acf/application/controllers/admin/gallery.php on line 795
+[05-Nov-2016 13:44:55 UTC] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/childrenfe/public_html/acf/application/views/user/bookGallery.php on line 28
+[05-Nov-2016 13:45:58 UTC] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/childrenfe/public_html/acf/application/views/user/bookGallery.php on line 28
+[26-Dec-2016 06:04:12 UTC] PHP Parse error:  syntax error, unexpected 'default' (T_DEFAULT) in /home/gramutthan/public_html/gu_beta/application/config/database.php on line 54
+[26-Dec-2016 06:05:32 UTC] PHP Parse error:  syntax error, unexpected 'default' (T_DEFAULT) in /home/gramutthan/public_html/gu_beta/application/config/database.php on line 54
+[26-Dec-2016 06:05:32 UTC] PHP Parse error:  syntax error, unexpected 'default' (T_DEFAULT) in /home/gramutthan/public_html/gu_beta/application/config/database.php on line 54
+[26-Dec-2016 06:06:39 UTC] PHP Parse error:  syntax error, unexpected 'default' (T_DEFAULT) in /home/gramutthan/public_html/gu_beta/application/config/database.php on line 54
+[26-Dec-2016 06:06:42 UTC] PHP Parse error:  syntax error, unexpected 'default' (T_DEFAULT) in /home/gramutthan/public_html/gu_beta/application/config/database.php on line 54
+[26-Dec-2016 06:08:18 UTC] PHP Parse error:  syntax error, unexpected 'default' (T_DEFAULT) in /home/gramutthan/public_html/gu_beta/application/config/database.php on line 54
+[07-Jan-2017 08:59:37 UTC] PHP Warning:  POST Content-Length of 11584465 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[10-Jan-2017 06:06:05 UTC] PHP Warning:  POST Content-Length of 12412554 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[10-Jan-2017 06:08:16 UTC] PHP Warning:  POST Content-Length of 11584455 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[10-Jan-2017 06:11:16 UTC] PHP Warning:  POST Content-Length of 11584455 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[10-Jan-2017 06:13:40 UTC] PHP Warning:  POST Content-Length of 11584445 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[10-Jan-2017 06:29:32 UTC] PHP Warning:  POST Content-Length of 12412580 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[10-Jan-2017 06:33:42 UTC] PHP Warning:  POST Content-Length of 12412567 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[11-Jan-2017 06:46:40 UTC] PHP Fatal error:  Call to a member function logged_in() on a non-object in /home/gramutthan/public_html/gu_beta/application/views/common_user/header.php on line 26
+[11-Jan-2017 07:20:31 UTC] PHP Parse error:  syntax error, unexpected ''photogallery'' (T_CONSTANT_ENCAPSED_STRING) in /home/gramutthan/public_html/gu_beta/application/views/common_user/header.php on line 30
+[11-Jan-2017 07:21:12 UTC] PHP Parse error:  syntax error, unexpected ''photogallery'' (T_CONSTANT_ENCAPSED_STRING) in /home/gramutthan/public_html/gu_beta/application/views/common_user/header.php on line 30
+[11-Jan-2017 07:22:44 UTC] PHP Parse error:  syntax error, unexpected ''photogallery'' (T_CONSTANT_ENCAPSED_STRING) in /home/gramutthan/public_html/gu_beta/application/views/common_user/header.php on line 30
+[11-Jan-2017 07:24:46 UTC] PHP Parse error:  syntax error, unexpected '"photogallery"' (T_CONSTANT_ENCAPSED_STRING) in /home/gramutthan/public_html/gu_beta/application/views/common_user/header.php on line 30
+[11-Jan-2017 07:25:34 UTC] PHP Parse error:  syntax error, unexpected '"photogallery"' (T_CONSTANT_ENCAPSED_STRING) in /home/gramutthan/public_html/gu_beta/application/views/common_user/header.php on line 30
+[11-Jan-2017 07:25:56 UTC] PHP Parse error:  syntax error, unexpected '"album"' (T_CONSTANT_ENCAPSED_STRING) in /home/gramutthan/public_html/gu_beta/application/views/common_user/header.php on line 30
+[11-Jan-2017 07:26:41 UTC] PHP Parse error:  syntax error, unexpected '"photogallery"' (T_CONSTANT_ENCAPSED_STRING) in /home/gramutthan/public_html/gu_beta/application/views/common_user/header.php on line 30
+[11-Jan-2017 07:33:00 UTC] PHP Warning:  POST Content-Length of 11672726 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[11-Jan-2017 12:55:02 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/gramutthan/public_html/gu_beta/application/controllers/page.php on line 1431
+[11-Jan-2017 12:58:15 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/gramutthan/public_html/gu_beta/application/controllers/page.php on line 1438
+[11-Jan-2017 12:59:47 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/gramutthan/public_html/gu_beta/application/controllers/page.php on line 1438
+[11-Jan-2017 13:03:05 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/gramutthan/public_html/gu_beta/application/controllers/page.php on line 1438
+[11-Jan-2017 13:05:18 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/gramutthan/public_html/gu_beta/application/controllers/page.php on line 1438
+[11-Jan-2017 13:05:45 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/gramutthan/public_html/gu_beta/application/controllers/page.php on line 1438
+[11-Jan-2017 13:06:09 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/gramutthan/public_html/gu_beta/application/controllers/page.php on line 1438
+[12-Jan-2017 10:46:43 UTC] PHP Warning:  POST Content-Length of 12412562 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Jan-2017 10:48:07 UTC] PHP Warning:  POST Content-Length of 12412563 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Jan-2017 10:49:34 UTC] PHP Warning:  POST Content-Length of 12412573 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Jan-2017 06:30:14 UTC] PHP Warning:  POST Content-Length of 11635112 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Jan-2017 12:18:23 UTC] PHP Fatal error:  Call to undefined method CI_Email::set_header() in /home/gramutthan/public_html/application/controllers/page.php on line 1061
+[16-Jan-2017 12:20:04 UTC] PHP Fatal error:  Call to undefined method CI_Email::set_header() in /home/gramutthan/public_html/application/controllers/page.php on line 1071
+[16-Jan-2017 12:21:05 UTC] PHP Fatal error:  Call to undefined method CI_Email::set_header() in /home/gramutthan/public_html/application/controllers/page.php on line 1071
+[16-Jan-2017 12:21:42 UTC] PHP Fatal error:  Call to undefined method CI_Email::set_header() in /home/gramutthan/public_html/application/controllers/page.php on line 1071
+[16-Jan-2017 13:23:45 UTC] PHP Fatal error:  Call to undefined method Page::uploaddoc() in /home/gramutthan/public_html/application/controllers/page.php on line 1109
+[17-Jan-2017 05:47:12 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/gramutthan/public_html/application/controllers/page.php on line 1042
+[17-Jan-2017 05:47:15 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/gramutthan/public_html/application/controllers/page.php on line 1042
+[17-Jan-2017 05:47:27 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/gramutthan/public_html/application/controllers/page.php on line 1042
+[17-Jan-2017 05:48:52 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/gramutthan/public_html/application/controllers/page.php on line 1047
+[18-Jan-2017 06:59:18 UTC] PHP Warning:  POST Content-Length of 11947425 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Jan-2017 07:04:57 UTC] PHP Warning:  POST Content-Length of 11596224 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Jan-2017 07:13:17 UTC] PHP Warning:  POST Content-Length of 11587158 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[03-Feb-2017 10:11:57 UTC] PHP Warning:  POST Content-Length of 9573742 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[03-Feb-2017 10:12:44 UTC] PHP Warning:  POST Content-Length of 9677438 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[03-Feb-2017 10:14:49 UTC] PHP Warning:  POST Content-Length of 14441996 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[04-Feb-2017 06:26:04 UTC] PHP Warning:  POST Content-Length of 12934305 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[07-Feb-2017 10:23:38 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting ',' or ';' in /home/gramutthan/public_html/application/views/slider/view_slide.php on line 40
+[07-Feb-2017 10:53:29 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/gramutthan/public_html/application/views/slider/view_slide.php on line 40
+[07-Feb-2017 10:53:38 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/gramutthan/public_html/application/views/slider/view_slide.php on line 40
+[07-Feb-2017 10:53:41 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/gramutthan/public_html/application/views/slider/view_slide.php on line 40
+[07-Feb-2017 10:53:47 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/gramutthan/public_html/application/views/slider/view_slide.php on line 40
+[04-Mar-2017 02:49:11 America/Chicago] PHP Fatal error:  Cannot redeclare Slider::create_slide() in /home2/ab7405/public_html/pnc_online/application/controllers/admin/slider.php on line 212
+[04-Mar-2017 02:50:08 America/Chicago] PHP Fatal error:  Cannot redeclare Slider::create_slide() in /home2/ab7405/public_html/pnc_online/application/controllers/admin/slider.php on line 212
+[04-Mar-2017 02:54:30 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/ab7405/public_html/pnc_online/application/controllers/admin/slider.php on line 261
+[04-Mar-2017 03:38:07 America/Chicago] PHP Fatal error:  Call to undefined method Slider_model::get_data() in /home2/ab7405/public_html/pnc_online/application/controllers/admin/slider.php on line 229
+[04-Mar-2017 03:39:38 America/Chicago] PHP Fatal error:  Call to undefined method Slider_model::get_data() in /home2/ab7405/public_html/pnc_online/application/controllers/admin/slider.php on line 231
+[04-Mar-2017 05:07:35 America/Chicago] PHP Fatal error:  Cannot re-assign $this in /home2/ab7405/public_html/pnc_online/application/controllers/admin/slider.php on line 229
+[04-Mar-2017 05:07:43 America/Chicago] PHP Fatal error:  Cannot re-assign $this in /home2/ab7405/public_html/pnc_online/application/controllers/admin/slider.php on line 229
+[04-Mar-2017 05:08:12 America/Chicago] PHP Fatal error:  Cannot re-assign $this in /home2/ab7405/public_html/pnc_online/application/controllers/admin/slider.php on line 229
+[04-Mar-2017 05:08:45 America/Chicago] PHP Parse error:  syntax error, unexpected ''common_admin/header'' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home2/ab7405/public_html/pnc_online/application/controllers/admin/slider.php on line 229
+[04-Mar-2017 05:12:55 America/Chicago] PHP Fatal error:  Cannot re-assign $this in /home2/ab7405/public_html/pnc_online/application/controllers/admin/slider.php on line 229
+[04-Mar-2017 05:15:34 America/Chicago] PHP Fatal error:  Cannot re-assign $this in /home2/ab7405/public_html/pnc_online/application/controllers/admin/slider.php on line 229
+[04-Mar-2017 05:21:47 America/Chicago] PHP Fatal error:  Cannot re-assign $this in /home2/ab7405/public_html/pnc_online/application/controllers/admin/slider.php on line 229
+[04-Mar-2017 05:22:01 America/Chicago] PHP Fatal error:  Cannot re-assign $this in /home2/ab7405/public_html/pnc_online/application/controllers/admin/slider.php on line 229
+[04-Mar-2017 05:23:19 America/Chicago] PHP Fatal error:  Call to undefined function view() in /home2/ab7405/public_html/pnc_online/application/controllers/admin/slider.php on line 235
+[04-Mar-2017 06:11:16 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 06:11:20 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 06:11:22 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 06:11:26 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 06:11:29 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 06:11:34 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 06:12:01 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 06:12:03 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 06:12:43 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 06:13:00 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 06:13:01 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 06:13:03 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 06:13:13 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 06:13:48 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 06:13:50 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 06:14:01 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 06:14:03 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 06:14:06 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 06:14:08 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 06:14:10 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 06:14:12 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 06:14:15 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 06:14:18 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 07:18:41 America/Chicago] PHP Fatal error:  Call to undefined function sit_url() in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 07:18:51 America/Chicago] PHP Fatal error:  Call to undefined function sit_url() in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 07:22:27 America/Chicago] PHP Fatal error:  Call to undefined function sit_url() in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 07:22:29 America/Chicago] PHP Fatal error:  Call to undefined function sit_url() in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[04-Mar-2017 07:22:57 America/Chicago] PHP Fatal error:  Call to undefined function sit_url() in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 35
+[06-Mar-2017 00:02:48 America/Chicago] PHP Fatal error:  Call to undefined method Slider_model::getslider() in /home2/ab7405/public_html/pnc_online/application/controllers/admin/slider.php on line 58
+[06-Mar-2017 00:06:24 America/Chicago] PHP Fatal error:  Call to undefined method Slider_model::getslider() in /home2/ab7405/public_html/pnc_online/application/controllers/admin/slider.php on line 58
+[06-Mar-2017 00:10:16 America/Chicago] PHP Fatal error:  Call to undefined method Slider_model::getslider() in /home2/ab7405/public_html/pnc_online/application/controllers/admin/slider.php on line 58
+[06-Mar-2017 00:18:23 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/ab7405/public_html/pnc_online/application/models/slider_model.php on line 370
+[06-Mar-2017 00:22:24 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/application/views/slider/view_slide.php on line 33
+[06-Mar-2017 00:55:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/ab7405/public_html/pnc_online/application/views/slider/edit_banner.php on line 13
+[06-Mar-2017 04:54:32 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/ab7405/public_html/pnc_online/application/controllers/admin/pages.php on line 129
+[06-Mar-2017 04:56:05 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/ab7405/public_html/pnc_online/application/controllers/admin/pages.php on line 129
+[06-Mar-2017 04:57:39 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/ab7405/public_html/pnc_online/application/controllers/admin/pages.php on line 129
+[06-Mar-2017 04:58:58 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/ab7405/public_html/pnc_online/application/controllers/admin/pages.php on line 133
+[06-Mar-2017 06:18:29 America/Chicago] PHP Fatal error:  Call to undefined function upload_page_image() in /home2/ab7405/public_html/pnc_online/application/controllers/admin/pages.php on line 74
+[07-Mar-2017 03:36:56 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/ab7405/public_html/pnc_online/application/controllers/admin/events.php on line 108
+[07-Mar-2017 05:05:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home2/ab7405/public_html/pnc_online/application/models/event_model.php on line 192
+[07-Mar-2017 05:56:30 America/Chicago] PHP Fatal error:  Cannot redeclare Slider::actdeact() in /home2/ab7405/public_html/pnc_online/application/controllers/admin/slider.php on line 398
+[08-Mar-2017 01:41:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/ab7405/public_html/pnc_online/application/views/menu/testimonial_list.php on line 127
+[08-Mar-2017 02:57:09 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/application/views/events/view_events.php on line 33
+[08-Mar-2017 02:59:40 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/application/views/events/view_events.php on line 33
+[08-Mar-2017 02:59:44 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/application/views/events/view_events.php on line 33
+[08-Mar-2017 03:01:49 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/application/views/events/view_events.php on line 33
+[08-Mar-2017 03:02:00 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/application/views/events/view_events.php on line 33
+[08-Mar-2017 03:03:20 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/application/views/events/view_events.php on line 33
+[08-Mar-2017 03:09:53 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/application/views/events/view_events.php on line 33
+[08-Mar-2017 03:10:01 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/application/views/events/view_events.php on line 33
+[08-Mar-2017 07:04:18 America/Chicago] PHP Fatal error:  Class 'Event_model' not found in /home2/ab7405/public_html/pnc_online/system/core/Loader.php on line 303
+[11-Mar-2017 06:14:03 America/Chicago] PHP Fatal error:  Call to a member function slider_listing() on a non-object in /home2/ab7405/public_html/pnc_online/application/controllers/admin/pages.php on line 54
+[11-Mar-2017 06:14:15 America/Chicago] PHP Fatal error:  Call to a member function slider_listing() on a non-object in /home2/ab7405/public_html/pnc_online/application/controllers/admin/pages.php on line 54
+[14-Mar-2017 01:37:20 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 140
+[14-Mar-2017 03:28:10 America/Chicago] PHP Fatal error:  Call to undefined method CI_Loader::upload_page_image() in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 156
+[14-Mar-2017 03:28:12 America/Chicago] PHP Fatal error:  Call to undefined method CI_Loader::upload_page_image() in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 156
+[14-Mar-2017 04:35:17 America/Chicago] PHP Fatal error:  Cannot redeclare events::add_event() in /home2/ab7405/public_html/pnc_online/application/controllers/admin/events.php on line 117
+[14-Mar-2017 04:35:40 America/Chicago] PHP Fatal error:  Cannot redeclare events::add_event() in /home2/ab7405/public_html/pnc_online/application/controllers/admin/events.php on line 117
+[14-Mar-2017 04:48:24 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting ';' or '{' in /home2/ab7405/public_html/pnc_online/application/models/event_model.php on line 187
+[14-Mar-2017 04:50:17 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting ';' or '{' in /home2/ab7405/public_html/pnc_online/application/models/event_model.php on line 187
+[14-Mar-2017 04:51:05 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting ';' or '{' in /home2/ab7405/public_html/pnc_online/application/models/event_model.php on line 187
+[14-Mar-2017 04:52:29 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting ';' or '{' in /home2/ab7405/public_html/pnc_online/application/models/event_model.php on line 187
+[14-Mar-2017 04:52:49 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting ';' or '{' in /home2/ab7405/public_html/pnc_online/application/models/event_model.php on line 187
+[14-Mar-2017 05:25:55 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home2/ab7405/public_html/pnc_online/application/controllers/admin/events.php on line 331
+[14-Mar-2017 05:33:02 America/Chicago] PHP Fatal error:  Call to undefined method Event_model::edit_testimonial() in /home2/ab7405/public_html/pnc_online/application/controllers/admin/events.php on line 283
+[14-Mar-2017 05:56:36 America/Chicago] PHP Fatal error:  Call to undefined function curent_url() in /home2/ab7405/public_html/pnc_online/application/views/events/edit_testimonial.php on line 26
+[14-Mar-2017 05:56:37 America/Chicago] PHP Fatal error:  Call to undefined function curent_url() in /home2/ab7405/public_html/pnc_online/application/views/events/edit_testimonial.php on line 26
+[14-Mar-2017 05:56:38 America/Chicago] PHP Fatal error:  Call to undefined function curent_url() in /home2/ab7405/public_html/pnc_online/application/views/events/edit_testimonial.php on line 26
+[14-Mar-2017 05:56:40 America/Chicago] PHP Fatal error:  Call to undefined function curent_url() in /home2/ab7405/public_html/pnc_online/application/views/events/edit_testimonial.php on line 26
+[14-Mar-2017 05:56:43 America/Chicago] PHP Fatal error:  Call to undefined function curent_url() in /home2/ab7405/public_html/pnc_online/application/views/events/edit_testimonial.php on line 26
+[14-Mar-2017 05:56:46 America/Chicago] PHP Fatal error:  Call to undefined function curent_url() in /home2/ab7405/public_html/pnc_online/application/views/events/edit_testimonial.php on line 26
+[14-Mar-2017 05:56:48 America/Chicago] PHP Fatal error:  Call to undefined function curent_url() in /home2/ab7405/public_html/pnc_online/application/views/events/edit_testimonial.php on line 26
+[14-Mar-2017 05:57:00 America/Chicago] PHP Fatal error:  Call to undefined function curent_url() in /home2/ab7405/public_html/pnc_online/application/views/events/edit_testimonial.php on line 26
+[14-Mar-2017 05:57:14 America/Chicago] PHP Fatal error:  Call to undefined function curent_url() in /home2/ab7405/public_html/pnc_online/application/views/events/edit_testimonial.php on line 26
+[14-Mar-2017 05:57:16 America/Chicago] PHP Fatal error:  Call to undefined function curent_url() in /home2/ab7405/public_html/pnc_online/application/views/events/edit_testimonial.php on line 26
+[14-Mar-2017 05:58:12 America/Chicago] PHP Fatal error:  Call to undefined function curent_url() in /home2/ab7405/public_html/pnc_online/application/views/events/edit_testimonial.php on line 26
+[14-Mar-2017 05:59:54 America/Chicago] PHP Fatal error:  Call to undefined function curent_url() in /home2/ab7405/public_html/pnc_online/application/views/events/edit_testimonial.php on line 26
+[14-Mar-2017 05:59:56 America/Chicago] PHP Fatal error:  Call to undefined function curent_url() in /home2/ab7405/public_html/pnc_online/application/views/events/edit_testimonial.php on line 26
+[14-Mar-2017 05:59:57 America/Chicago] PHP Fatal error:  Call to undefined function curent_url() in /home2/ab7405/public_html/pnc_online/application/views/events/edit_testimonial.php on line 26
+[14-Mar-2017 05:59:58 America/Chicago] PHP Fatal error:  Call to undefined function curent_url() in /home2/ab7405/public_html/pnc_online/application/views/events/edit_testimonial.php on line 26
+[14-Mar-2017 06:01:13 America/Chicago] PHP Fatal error:  Call to undefined function curent_url() in /home2/ab7405/public_html/pnc_online/application/views/events/edit_testimonial.php on line 26
+[14-Mar-2017 06:01:15 America/Chicago] PHP Fatal error:  Call to undefined function curent_url() in /home2/ab7405/public_html/pnc_online/application/views/events/edit_testimonial.php on line 26
+[14-Mar-2017 07:07:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:08:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:08:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:10:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:10:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:11:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:13:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'target' (T_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/pages/edit_page.php on line 122
+[14-Mar-2017 07:14:21 America/Chicago] PHP Fatal error:  Cannot redeclare Menu::order_menu() in /home2/ab7405/public_html/pnc_online/application/controllers/admin/menu.php on line 477
+[14-Mar-2017 07:19:19 America/Chicago] PHP Fatal error:  Call to undefined method Menu_model::view_menuorder() in /home2/ab7405/public_html/pnc_online/application/controllers/admin/menu.php on line 467
+[14-Mar-2017 07:19:25 America/Chicago] PHP Fatal error:  Call to undefined method Menu_model::view_menuorder() in /home2/ab7405/public_html/pnc_online/application/controllers/admin/menu.php on line 467
+[14-Mar-2017 07:19:54 America/Chicago] PHP Fatal error:  Call to undefined method Menu_model::view_menuorder() in /home2/ab7405/public_html/pnc_online/application/controllers/admin/menu.php on line 467
+[14-Mar-2017 08:48:23 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home2/ab7405/public_html/pnc_online/application/controllers/admin/menu.php on line 595
+[15-Mar-2017 04:58:53 America/Chicago] PHP Parse error:  syntax error, unexpected ''assets/plugins/colorpicker/bo' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/template/colorpicker.php on line 2
+[15-Mar-2017 04:59:09 America/Chicago] PHP Parse error:  syntax error, unexpected ''assets/plugins/colorpicker/bo' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/template/colorpicker.php on line 2
+[15-Mar-2017 04:59:26 America/Chicago] PHP Parse error:  syntax error, unexpected ''assets/plugins/colorpicker/bo' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/template/colorpicker.php on line 2
+[15-Mar-2017 05:01:16 America/Chicago] PHP Parse error:  syntax error, unexpected ''assets/plugins/colorpicker/bo' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home2/ab7405/public_html/pnc_online/application/views/template/colorpicker.php on line 2
+[15-Mar-2017 07:47:54 America/Chicago] PHP Fatal error:  Call to a member function color_model() on a non-object in /home2/ab7405/public_html/pnc_online/application/controllers/admin/template.php on line 33
+[15-Mar-2017 07:54:25 America/Chicago] PHP Fatal error:  Call to a member function color_model() on a non-object in /home2/ab7405/public_html/pnc_online/application/controllers/admin/template.php on line 33
+[15-Mar-2017 07:56:56 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/ab7405/public_html/pnc_online/application/controllers/admin/template.php on line 64
+[15-Mar-2017 07:58:18 America/Chicago] PHP Fatal error:  Call to a member function color_model() on a non-object in /home2/ab7405/public_html/pnc_online/application/controllers/admin/template.php on line 33
+[15-Mar-2017 07:58:51 America/Chicago] PHP Fatal error:  Call to a member function color_model() on a non-object in /home2/ab7405/public_html/pnc_online/application/controllers/admin/template.php on line 33
+[15-Mar-2017 07:58:55 America/Chicago] PHP Fatal error:  Call to a member function color_model() on a non-object in /home2/ab7405/public_html/pnc_online/application/controllers/admin/template.php on line 33
+[15-Mar-2017 08:05:26 America/Chicago] PHP Fatal error:  Call to a member function color_picker() on a non-object in /home2/ab7405/public_html/pnc_online/application/controllers/admin/template.php on line 33
+[15-Mar-2017 08:11:53 America/Chicago] PHP Fatal error:  Call to a member function color_picker() on a non-object in /home2/ab7405/public_html/pnc_online/application/controllers/admin/template.php on line 33
+[15-Mar-2017 08:13:09 America/Chicago] PHP Fatal error:  Call to a member function color_picker() on a non-object in /home2/ab7405/public_html/pnc_online/application/controllers/admin/template.php on line 33
+[15-Mar-2017 08:18:54 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home2/ab7405/public_html/pnc_online/application/models/color_model.php on line 317
+[15-Mar-2017 08:19:35 America/Chicago] PHP Fatal error:  Class 'Color_model' not found in /home2/ab7405/public_html/pnc_online/system/core/Loader.php on line 303
+[16-Mar-2017 00:47:46 America/Chicago] PHP Fatal error:  Call to a member function array() on a non-object in /home2/ab7405/public_html/pnc_online/application/models/color_model.php on line 321
+[16-Mar-2017 00:48:11 America/Chicago] PHP Fatal error:  Call to a member function array() on a non-object in /home2/ab7405/public_html/pnc_online/application/models/color_model.php on line 321
+[16-Mar-2017 04:56:08 America/Chicago] PHP Fatal error:  Call to a member function result_array() on a non-object in /home2/ab7405/public_html/pnc_online/application/controllers/admin/menu.php on line 39
+[16-Mar-2017 04:56:20 America/Chicago] PHP Fatal error:  Call to a member function result_array() on a non-object in /home2/ab7405/public_html/pnc_online/application/controllers/admin/menu.php on line 39
+[16-Mar-2017 05:13:57 America/Chicago] PHP Fatal error:  Call to a member function result_array() on a non-object in /home2/ab7405/public_html/pnc_online/application/controllers/admin/menu.php on line 39
+[16-Mar-2017 05:14:27 America/Chicago] PHP Fatal error:  Call to a member function result_array() on a non-object in /home2/ab7405/public_html/pnc_online/application/controllers/admin/menu.php on line 39
+[16-Mar-2017 05:16:55 America/Chicago] PHP Fatal error:  Call to a member function result_array() on a non-object in /home2/ab7405/public_html/pnc_online/application/controllers/admin/menu.php on line 39
+[17-Mar-2017 02:16:09 America/Chicago] PHP Fatal error:  Call to undefined method Slider::upload_page_image() in /home2/ab7405/public_html/pnc_online/application/controllers/admin/slider.php on line 320
+[17-Mar-2017 02:59:47 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home2/ab7405/public_html/pnc_online/application/models/slider_model.php on line 474
+[17-Mar-2017 02:59:50 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home2/ab7405/public_html/pnc_online/application/models/slider_model.php on line 474
+[17-Mar-2017 04:03:27 America/Chicago] PHP Fatal error:  Call to undefined method Slider_model::get_sldr() in /home2/ab7405/public_html/pnc_online/application/controllers/admin/slider.php on line 341
+[17-Mar-2017 04:03:39 America/Chicago] PHP Fatal error:  Call to undefined method Slider_model::get_sldr() in /home2/ab7405/public_html/pnc_online/application/controllers/admin/slider.php on line 341
+[17-Mar-2017 04:06:30 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home2/ab7405/public_html/pnc_online/application/models/slider_model.php on line 365
+[17-Mar-2017 04:06:41 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home2/ab7405/public_html/pnc_online/application/models/slider_model.php on line 365
+[21-Mar-2017 16:19:43 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/ab7405/public_html/pnc_online/admin/application/views/menu/inner_view.php on line 89
+[22-Mar-2017 04:22:38 America/Chicago] PHP Fatal error:  Call to a member function get_approve_testimonial() on a non-object in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/events.php on line 122
+[22-Mar-2017 05:05:17 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/events.php on line 508
+[22-Mar-2017 05:06:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/events.php on line 508
+[22-Mar-2017 05:06:49 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/events.php on line 508
+[22-Mar-2017 05:47:46 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/events.php on line 308
+[22-Mar-2017 05:47:50 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/events.php on line 308
+[22-Mar-2017 05:47:51 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/events.php on line 308
+[22-Mar-2017 07:46:26 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/template.php on line 106
+[23-Mar-2017 02:48:57 America/Chicago] PHP Fatal error:  Call to undefined method Page_model::delete_pg() in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/pages.php on line 285
+[23-Mar-2017 05:11:17 America/Chicago] PHP Fatal error:  Cannot redeclare events::edit_testimonial() in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/events.php on line 370
+[23-Mar-2017 05:46:49 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/admin/application/views/events/add_testimonial.php on line 19
+[23-Mar-2017 05:47:10 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/admin/application/views/events/add_testimonial.php on line 19
+[23-Mar-2017 05:48:07 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/admin/application/views/events/add_testimonial.php on line 19
+[23-Mar-2017 05:48:13 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/admin/application/views/events/add_testimonial.php on line 19
+[23-Mar-2017 05:48:36 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/admin/application/views/events/add_testimonial.php on line 19
+[23-Mar-2017 05:50:07 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/admin/application/views/events/add_testimonial.php on line 19
+[23-Mar-2017 05:50:09 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/admin/application/views/events/add_testimonial.php on line 19
+[23-Mar-2017 05:50:43 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/admin/application/views/events/add_testimonial.php on line 19
+[23-Mar-2017 05:51:34 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/admin/application/views/events/add_testimonial.php on line 19
+[23-Mar-2017 05:52:08 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/admin/application/views/events/add_testimonial.php on line 19
+[23-Mar-2017 05:52:13 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/admin/application/views/events/add_testimonial.php on line 19
+[23-Mar-2017 05:52:34 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/admin/application/views/events/add_testimonial.php on line 19
+[23-Mar-2017 05:57:18 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/admin/application/views/events/add_testimonial.php on line 19
+[23-Mar-2017 05:58:04 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/admin/application/views/events/add_testimonial.php on line 23
+[23-Mar-2017 05:59:05 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/admin/application/views/events/add_testimonial.php on line 18
+[23-Mar-2017 06:05:00 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/admin/application/views/events/add_testimonial.php on line 18
+[23-Mar-2017 06:07:05 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/admin/application/views/events/add_testimonial.php on line 18
+[24-Mar-2017 05:25:39 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/events.php on line 528
+[30-Mar-2017 15:20:49 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/ab7405/public_html/pnc_online/admin/application/views/file_upload/view_file.php on line 39
+[30-Mar-2017 15:27:02 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/file_upload.php on line 83
+[01-Apr-2017 05:49:40 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/ab7405/public_html/pnc_online/admin/application/views/pages/edit_page.php on line 17
+[01-Apr-2017 05:57:53 America/Chicago] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/pages.php on line 543
+[12-Apr-2017 00:55:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED) in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/pages.php on line 914
+[12-Apr-2017 00:55:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED) in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/pages.php on line 914
+[12-Apr-2017 00:55:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED) in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/pages.php on line 914
+[12-Apr-2017 00:55:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED) in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/pages.php on line 914
+[12-Apr-2017 00:55:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED) in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/pages.php on line 914
+[12-Apr-2017 00:58:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED) in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/pages.php on line 914
+[12-Apr-2017 01:00:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED) in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/pages.php on line 914
+[12-Apr-2017 01:00:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED) in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/pages.php on line 914
+[12-Apr-2017 01:03:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED) in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/pages.php on line 914
+[12-Apr-2017 01:03:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED) in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/pages.php on line 914
+[12-Apr-2017 01:03:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED) in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/pages.php on line 914
+[12-Apr-2017 01:06:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED) in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/pages.php on line 914
+[20-Apr-2017 01:08:38 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/pages.php on line 663
+[20-Apr-2017 01:08:38 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home2/ab7405/public_html/pnc_online/admin/application/controllers/admin/pages.php on line 669
+[04-Jul-2017 05:02:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ab7405/public_html/pnc_online/admin/application/views/slider/banner.php on line 199
+[22-Aug-2017 06:05:31 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/ab7405/public_html/indigocms/admin/application/controllers/admin/slider.php on line 363
+[22-Aug-2017 06:05:45 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/ab7405/public_html/indigocms/admin/application/controllers/admin/slider.php on line 361
+[23-Aug-2017 07:32:16 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ab7405/public_html/indigocms/admin/application/views/events/eventsdata.php on line 7
+[23-Aug-2017 08:25:39 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ab7405/public_html/indigocms/admin/application/views/events/event_calendar.php on line 52
+[23-Aug-2017 09:49:24 UTC] PHP Fatal error:  Cannot redeclare events::index() in /home/ab7405/public_html/indigocms/admin/application/controllers/admin/events.php on line 920
+[23-Aug-2017 09:52:47 UTC] PHP Parse error:  syntax error, unexpected 'unction' (T_STRING), expecting function (T_FUNCTION) in /home/ab7405/public_html/indigocms/admin/application/controllers/admin/events.php on line 950
+[23-Aug-2017 09:55:55 UTC] PHP Parse error:  syntax error, unexpected 'unction' (T_STRING), expecting function (T_FUNCTION) in /home/ab7405/public_html/indigocms/admin/application/controllers/admin/events.php on line 950
+[01-Nov-2017 11:40:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/racslcom/public_html/hotelgoldenanchor.com/hga/admin/application/views/admin/about.php on line 248
+[05-Mar-2018 11:36:38 UTC] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE) in /home/bkrassog/public_html/admin/application/controllers/admin/events.php on line 308
+[05-Mar-2018 11:36:43 UTC] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE) in /home/bkrassog/public_html/admin/application/controllers/admin/events.php on line 308
+[05-Mar-2018 11:37:03 UTC] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE) in /home/bkrassog/public_html/admin/application/controllers/admin/events.php on line 308
+[05-Mar-2018 11:37:42 UTC] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE) in /home/bkrassog/public_html/admin/application/controllers/admin/events.php on line 308
+[05-Mar-2018 11:37:42 UTC] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE) in /home/bkrassog/public_html/admin/application/controllers/admin/events.php on line 308
+[05-Mar-2018 11:37:42 UTC] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE) in /home/bkrassog/public_html/admin/application/controllers/admin/events.php on line 308
+[05-Mar-2018 11:37:42 UTC] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE) in /home/bkrassog/public_html/admin/application/controllers/admin/events.php on line 308
+[05-Mar-2018 11:37:42 UTC] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE) in /home/bkrassog/public_html/admin/application/controllers/admin/events.php on line 308
+[05-Mar-2018 11:37:43 UTC] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE) in /home/bkrassog/public_html/admin/application/controllers/admin/events.php on line 308
+[05-Mar-2018 11:37:47 UTC] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE) in /home/bkrassog/public_html/admin/application/controllers/admin/events.php on line 308
+[21-Jun-2018 12:56:26 UTC] PHP Fatal error:  Call to a member function get_admission() on null in /home/waynet/public_html/indigo/kosola/admin/application/controllers/admin/admission.php on line 35
+[21-Jun-2018 12:56:52 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 12:56:54 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 12:57:16 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 12:57:19 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 12:57:36 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 12:57:42 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 12:58:09 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 12:58:11 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 12:58:29 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 12:58:32 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 12:58:34 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 12:58:36 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 12:59:26 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 12:59:36 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 12:59:42 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 12:59:46 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 12:59:48 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 13:00:16 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 13:01:57 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 13:01:59 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 13:02:07 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 13:02:32 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 13:03:09 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 13:03:20 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 13:03:25 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 13:04:50 UTC] PHP Fatal error:  Call to a member function get_admission() on null in /home/waynet/public_html/indigo/kosola/admin/application/controllers/admin/admission.php on line 35
+[21-Jun-2018 13:05:21 UTC] PHP Fatal error:  Class 'Admission_model' not found in /home/waynet/public_html/indigo/kosola/admin/system/core/Loader.php on line 303
+[21-Jun-2018 13:09:40 UTC] PHP Fatal error:  Call to a member function result() on array in /home/waynet/public_html/indigo/kosola/admin/application/controllers/admin/admission.php on line 36
+[21-Jun-2018 13:09:42 UTC] PHP Fatal error:  Call to a member function result() on array in /home/waynet/public_html/indigo/kosola/admin/application/controllers/admin/admission.php on line 36
+[21-Jun-2018 13:11:04 UTC] PHP Fatal error:  Call to undefined method Admission_model::set_message() in /home/waynet/public_html/indigo/kosola/admin/application/models/admission_model.php on line 182
+[21-Jun-2018 13:12:22 UTC] PHP Fatal error:  Call to undefined method Admission_model::set_message() in /home/waynet/public_html/indigo/kosola/admin/application/models/admission_model.php on line 182
+[22-Jun-2018 05:11:16 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/waynet/public_html/indigo/kosola/admin/application/views/admission/edit_admission.php on line 29
+[22-Jun-2018 05:11:19 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/waynet/public_html/indigo/kosola/admin/application/views/admission/edit_admission.php on line 29
+[22-Jun-2018 10:43:42 UTC] PHP Fatal error:  Cannot redeclare News::create_url() in /home/waynet/public_html/indigo/kosola/admin/application/controllers/admin/news.php on line 103
+[22-Jun-2018 10:43:46 UTC] PHP Fatal error:  Cannot redeclare News::create_url() in /home/waynet/public_html/indigo/kosola/admin/application/controllers/admin/news.php on line 103
+[22-Jun-2018 10:52:35 UTC] PHP Fatal error:  Cannot redeclare News::create_url() in /home/waynet/public_html/indigo/kosola/admin/application/controllers/admin/news.php on line 103
+[22-Jun-2018 10:55:18 UTC] PHP Fatal error:  Cannot redeclare News::create_url() in /home/waynet/public_html/indigo/kosola/admin/application/controllers/admin/news.php on line 103
+[22-Jun-2018 10:55:57 UTC] PHP Fatal error:  Cannot redeclare News::create_url() in /home/waynet/public_html/indigo/kosola/admin/application/controllers/admin/news.php on line 60
+[22-Jun-2018 10:55:59 UTC] PHP Fatal error:  Cannot redeclare News::create_url() in /home/waynet/public_html/indigo/kosola/admin/application/controllers/admin/news.php on line 60
+[22-Jun-2018 10:56:01 UTC] PHP Fatal error:  Cannot redeclare News::create_url() in /home/waynet/public_html/indigo/kosola/admin/application/controllers/admin/news.php on line 60
+[22-Jun-2018 10:58:04 UTC] PHP Fatal error:  Cannot redeclare News::create_url() in /home/waynet/public_html/indigo/kosola/admin/application/controllers/admin/news.php on line 60
+[22-Jun-2018 10:58:24 UTC] PHP Fatal error:  Cannot redeclare News::create_url() in /home/waynet/public_html/indigo/kosola/admin/application/controllers/admin/news.php on line 60
+[22-Jun-2018 10:59:27 UTC] PHP Fatal error:  Cannot redeclare News::create_url() in /home/waynet/public_html/indigo/kosola/admin/application/controllers/admin/news.php on line 60
+[22-Jun-2018 10:59:29 UTC] PHP Fatal error:  Cannot redeclare News::create_url() in /home/waynet/public_html/indigo/kosola/admin/application/controllers/admin/news.php on line 60
+[22-Jun-2018 10:59:32 UTC] PHP Fatal error:  Cannot redeclare News::create_url() in /home/waynet/public_html/indigo/kosola/admin/application/controllers/admin/news.php on line 60
+[22-Jun-2018 10:59:59 UTC] PHP Fatal error:  Cannot redeclare News::create_url() in /home/waynet/public_html/indigo/kosola/admin/application/controllers/admin/news.php on line 60
+[22-Jun-2018 11:00:02 UTC] PHP Fatal error:  Cannot redeclare News::create_url() in /home/waynet/public_html/indigo/kosola/admin/application/controllers/admin/news.php on line 60
+[22-Jun-2018 11:12:43 UTC] PHP Fatal error:  Call to undefined method News_model::edit_news() in /home/waynet/public_html/indigo/kosola/admin/application/controllers/admin/news.php on line 110
+[22-Jun-2018 11:18:24 UTC] PHP Fatal error:  Call to undefined method News_model::delete_news() in /home/waynet/public_html/indigo/kosola/admin/application/controllers/admin/news.php on line 167
+[23-Jun-2018 06:57:06 UTC] PHP Fatal error:  Call to undefined method Event_model::update_event_activity() in /home/thekosal/public_html/admin/application/controllers/admin/events.php on line 255
+[23-Jun-2018 09:21:28 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/thekosal/public_html/admin/application/views/pages/edit_footer.php on line 16
+[23-Jun-2018 16:22:01 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 6912 bytes) in /home/thekosal/public_html/admin/system/libraries/Image_lib.php on line 514
+[23-Jun-2018 16:30:20 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 27648 bytes) in /home/thekosal/public_html/admin/system/libraries/Image_lib.php on line 514
+[23-Jun-2018 16:31:45 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 27648 bytes) in /home/thekosal/public_html/admin/system/libraries/Image_lib.php on line 514
+[23-Jun-2018 16:34:28 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 27648 bytes) in /home/thekosal/public_html/admin/system/libraries/Image_lib.php on line 514
+[23-Jun-2018 16:38:47 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 27648 bytes) in /home/thekosal/public_html/admin/system/libraries/Image_lib.php on line 514
+[31-Mar-2020 10:34:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/get98x16rngh/public_html/admin/application/views/customer/new_customer.php on line 49
+[31-Mar-2020 10:35:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/get98x16rngh/public_html/admin/application/views/customer/new_customer.php on line 49
+[01-Apr-2020 07:29:52 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/get98x16rngh/public_html/admin/application/libraries/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/get98x16rngh/public_html/admin/application/libraries/pdf.php on line 11
+[01-Apr-2020 07:30:36 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/get98x16rngh/public_html/admin/application/libraries/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/get98x16rngh/public_html/admin/application/libraries/pdf.php on line 11
+[01-Apr-2020 07:30:38 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/get98x16rngh/public_html/admin/application/libraries/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/get98x16rngh/public_html/admin/application/libraries/pdf.php on line 11
+[27-Apr-2020 12:26:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function bases_url() in /home/waynet/public_html/indigo/tejash/admin/application/views/common_admin/header.php:35
+Stack trace:
+#0 /home/waynet/public_html/indigo/tejash/admin/system/core/Loader.php(833): include()
+#1 /home/waynet/public_html/indigo/tejash/admin/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/waynet/public_html/indigo/tejash/admin/application/controllers/admin/dashboard.php(111): CI_Loader->view('common_admin/he...', Array)
+#3 /home/waynet/public_html/indigo/tejash/admin/system/core/CodeIgniter.php(359): Dashboard->index()
+#4 /home/waynet/public_html/indigo/tejash/admin/index.php(202): require_once('/home/waynet/pu...')
+#5 {main}
+  thrown in /home/waynet/public_html/indigo/tejash/admin/application/views/common_admin/header.php on line 35
+[27-Apr-2020 12:26:36 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function bases_url() in /home/waynet/public_html/indigo/tejash/admin/application/views/common_admin/header.php:35
+Stack trace:
+#0 /home/waynet/public_html/indigo/tejash/admin/system/core/Loader.php(833): include()
+#1 /home/waynet/public_html/indigo/tejash/admin/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/waynet/public_html/indigo/tejash/admin/application/controllers/admin/dashboard.php(111): CI_Loader->view('common_admin/he...', Array)
+#3 /home/waynet/public_html/indigo/tejash/admin/system/core/CodeIgniter.php(359): Dashboard->index()
+#4 /home/waynet/public_html/indigo/tejash/admin/index.php(202): require_once('/home/waynet/pu...')
+#5 {main}
+  thrown in /home/waynet/public_html/indigo/tejash/admin/application/views/common_admin/header.php on line 35
+[27-Apr-2020 12:26:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function bases_url() in /home/waynet/public_html/indigo/tejash/admin/application/views/common_admin/header.php:35
+Stack trace:
+#0 /home/waynet/public_html/indigo/tejash/admin/system/core/Loader.php(833): include()
+#1 /home/waynet/public_html/indigo/tejash/admin/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/waynet/public_html/indigo/tejash/admin/application/controllers/admin/dashboard.php(111): CI_Loader->view('common_admin/he...', Array)
+#3 /home/waynet/public_html/indigo/tejash/admin/system/core/CodeIgniter.php(359): Dashboard->index()
+#4 /home/waynet/public_html/indigo/tejash/admin/index.php(202): require_once('/home/waynet/pu...')
+#5 {main}
+  thrown in /home/waynet/public_html/indigo/tejash/admin/application/views/common_admin/header.php on line 35
+[29-Apr-2020 16:50:55 UTC] PHP Fatal error:  Cannot use [] for reading in /home/waynet/public_html/indigo/tejash/admin/application/controllers/admin/carwash.php on line 65
+[29-Apr-2020 17:00:49 UTC] PHP Fatal error:  Cannot use [] for reading in /home/waynet/public_html/indigo/tejash/admin/application/controllers/admin/carwash.php on line 64
+[29-Apr-2020 17:06:58 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) or const (T_CONST) in /home/waynet/public_html/indigo/tejash/admin/application/controllers/admin/carwash.php on line 97
+[30-Apr-2020 10:08:45 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/waynet/public_html/indigo/tejash/admin/application/views/carwash/edit_carwash.php:48
+Stack trace:
+#0 /home/waynet/public_html/indigo/tejash/admin/system/core/Loader.php(833): include()
+#1 /home/waynet/public_html/indigo/tejash/admin/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/waynet/public_html/indigo/tejash/admin/application/controllers/admin/carwash.php(143): CI_Loader->view('carwash/edit_ca...', Array)
+#3 /home/waynet/public_html/indigo/tejash/admin/system/core/CodeIgniter.php(359): Carwash->edit_carwash('1')
+#4 /home/waynet/public_html/indigo/tejash/admin/index.php(202): require_once('/home/waynet/pu...')
+#5 {main}
+  thrown in /home/waynet/public_html/indigo/tejash/admin/application/views/carwash/edit_carwash.php on line 48
+[18-May-2020 16:14:13 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Carwash::insert() in /home/tejashon/public_html/tejash/admin/application/controllers/admin/carwash.php:178
+Stack trace:
+#0 /home/tejashon/public_html/tejash/admin/system/core/CodeIgniter.php(359): Carwash->edit_carwash('1')
+#1 /home/tejashon/public_html/tejash/admin/index.php(202): require_once('/home/tejashon/...')
+#2 {main}
+  thrown in /home/tejashon/public_html/tejash/admin/application/controllers/admin/carwash.php on line 178
+[18-May-2020 16:15:09 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Carwash::insert() in /home/tejashon/public_html/tejash/admin/application/controllers/admin/carwash.php:178
+Stack trace:
+#0 /home/tejashon/public_html/tejash/admin/system/core/CodeIgniter.php(359): Carwash->edit_carwash('1')
+#1 /home/tejashon/public_html/tejash/admin/index.php(202): require_once('/home/tejashon/...')
+#2 {main}
+  thrown in /home/tejashon/public_html/tejash/admin/application/controllers/admin/carwash.php on line 178
+[18-May-2020 16:15:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Carwash::insert() in /home/tejashon/public_html/tejash/admin/application/controllers/admin/carwash.php:178
+Stack trace:
+#0 /home/tejashon/public_html/tejash/admin/system/core/CodeIgniter.php(359): Carwash->edit_carwash('1')
+#1 /home/tejashon/public_html/tejash/admin/index.php(202): require_once('/home/tejashon/...')
+#2 {main}
+  thrown in /home/tejashon/public_html/tejash/admin/application/controllers/admin/carwash.php on line 178
+[18-May-2020 16:15:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Carwash::insert() in /home/tejashon/public_html/tejash/admin/application/controllers/admin/carwash.php:178
+Stack trace:
+#0 /home/tejashon/public_html/tejash/admin/system/core/CodeIgniter.php(359): Carwash->edit_carwash('1')
+#1 /home/tejashon/public_html/tejash/admin/index.php(202): require_once('/home/tejashon/...')
+#2 {main}
+  thrown in /home/tejashon/public_html/tejash/admin/application/controllers/admin/carwash.php on line 178
+[18-May-2020 16:16:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Carwash::insert() in /home/tejashon/public_html/tejash/admin/application/controllers/admin/carwash.php:178
+Stack trace:
+#0 /home/tejashon/public_html/tejash/admin/system/core/CodeIgniter.php(359): Carwash->edit_carwash('1')
+#1 /home/tejashon/public_html/tejash/admin/index.php(202): require_once('/home/tejashon/...')
+#2 {main}
+  thrown in /home/tejashon/public_html/tejash/admin/application/controllers/admin/carwash.php on line 178
+[18-May-2020 16:31:08 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Carwash::resize_pg_image() in /home/tejashon/public_html/tejash/admin/application/controllers/admin/carwash.php:237
+Stack trace:
+#0 /home/tejashon/public_html/tejash/admin/application/controllers/admin/carwash.php(171): Carwash->upload_page_image('file')
+#1 /home/tejashon/public_html/tejash/admin/system/core/CodeIgniter.php(359): Carwash->edit_carwash('1')
+#2 /home/tejashon/public_html/tejash/admin/index.php(202): require_once('/home/tejashon/...')
+#3 {main}
+  thrown in /home/tejashon/public_html/tejash/admin/application/controllers/admin/carwash.php on line 237
+[03-Aug-2020 09:46:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Slider_model::edit_catgory() in /home/waynet/public_html/indigo/doctor_app/web/admin/application/controllers/admin/category.php:296
+Stack trace:
+#0 /home/waynet/public_html/indigo/doctor_app/web/admin/system/core/CodeIgniter.php(359): Category->get_category()
+#1 /home/waynet/public_html/indigo/doctor_app/web/admin/index.php(202): require_once('/home/waynet/pu...')
+#2 {main}
+  thrown in /home/waynet/public_html/indigo/doctor_app/web/admin/application/controllers/admin/category.php on line 296
+[03-Aug-2020 09:46:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Slider_model::edit_catgory() in /home/waynet/public_html/indigo/doctor_app/web/admin/application/controllers/admin/category.php:296
+Stack trace:
+#0 /home/waynet/public_html/indigo/doctor_app/web/admin/system/core/CodeIgniter.php(359): Category->get_category()
+#1 /home/waynet/public_html/indigo/doctor_app/web/admin/index.php(202): require_once('/home/waynet/pu...')
+#2 {main}
+  thrown in /home/waynet/public_html/indigo/doctor_app/web/admin/application/controllers/admin/category.php on line 296
+[03-Aug-2020 10:54:39 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli as array in /home/waynet/public_html/indigo/doctor_app/web/admin/application/views/clinic/view_clinic.php:45
+Stack trace:
+#0 /home/waynet/public_html/indigo/doctor_app/web/admin/system/core/Loader.php(833): include()
+#1 /home/waynet/public_html/indigo/doctor_app/web/admin/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/waynet/public_html/indigo/doctor_app/web/admin/application/controllers/admin/clinic.php(31): CI_Loader->view('clinic/view_cli...', Array)
+#3 /home/waynet/public_html/indigo/doctor_app/web/admin/system/core/CodeIgniter.php(359): Clinic->index()
+#4 /home/waynet/public_html/indigo/doctor_app/web/admin/index.php(202): require_once('/home/waynet/pu...')
+#5 {main}
+  thrown in /home/waynet/public_html/indigo/doctor_app/web/admin/application/views/clinic/view_clinic.php on line 45
+[06-Aug-2020 06:10:08 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli as array in /home/waynet/public_html/indigo/doctor_app/web/admin/application/views/doctor/view_doctor.php:29
+Stack trace:
+#0 /home/waynet/public_html/indigo/doctor_app/web/admin/system/core/Loader.php(833): include()
+#1 /home/waynet/public_html/indigo/doctor_app/web/admin/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/waynet/public_html/indigo/doctor_app/web/admin/application/controllers/admin/doctor.php(32): CI_Loader->view('doctor/view_doc...', Array)
+#3 /home/waynet/public_html/indigo/doctor_app/web/admin/system/core/CodeIgniter.php(359): Doctor->index()
+#4 /home/waynet/public_html/indigo/doctor_app/web/admin/index.php(202): require_once('/home/waynet/pu...')
+#5 {main}
+  thrown in /home/waynet/public_html/indigo/doctor_app/web/admin/application/views/doctor/view_doctor.php on line 29
+[06-Aug-2020 06:10:32 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/waynet/public_html/indigo/doctor_app/web/admin/application/views/doctor/view_doctor.php:29
+Stack trace:
+#0 /home/waynet/public_html/indigo/doctor_app/web/admin/system/core/Loader.php(833): include()
+#1 /home/waynet/public_html/indigo/doctor_app/web/admin/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/waynet/public_html/indigo/doctor_app/web/admin/application/controllers/admin/doctor.php(32): CI_Loader->view('doctor/view_doc...', Array)
+#3 /home/waynet/public_html/indigo/doctor_app/web/admin/system/core/CodeIgniter.php(359): Doctor->index()
+#4 /home/waynet/public_html/indigo/doctor_app/web/admin/index.php(202): require_once('/home/waynet/pu...')
+#5 {main}
+  thrown in /home/waynet/public_html/indigo/doctor_app/web/admin/application/views/doctor/view_doctor.php on line 29
+[06-Aug-2020 06:10:47 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/waynet/public_html/indigo/doctor_app/web/admin/application/views/doctor/view_doctor.php:29
+Stack trace:
+#0 /home/waynet/public_html/indigo/doctor_app/web/admin/system/core/Loader.php(833): include()
+#1 /home/waynet/public_html/indigo/doctor_app/web/admin/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/waynet/public_html/indigo/doctor_app/web/admin/application/controllers/admin/doctor.php(32): CI_Loader->view('doctor/view_doc...', Array)
+#3 /home/waynet/public_html/indigo/doctor_app/web/admin/system/core/CodeIgniter.php(359): Doctor->index()
+#4 /home/waynet/public_html/indigo/doctor_app/web/admin/index.php(202): require_once('/home/waynet/pu...')
+#5 {main}
+  thrown in /home/waynet/public_html/indigo/doctor_app/web/admin/application/views/doctor/view_doctor.php on line 29
+[05-Oct-2020 07:12:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Doctor_model::edit_doctor() in /home/waynet/public_html/indigo/doctor_app/web/admin/application/controllers/admin/doctor.php:176
+Stack trace:
+#0 /home/waynet/public_html/indigo/doctor_app/web/admin/system/core/CodeIgniter.php(359): Doctor->get_doctor()
+#1 /home/waynet/public_html/indigo/doctor_app/web/admin/index.php(202): require_once('/home/waynet/pu...')
+#2 {main}
+  thrown in /home/waynet/public_html/indigo/doctor_app/web/admin/application/controllers/admin/doctor.php on line 176
+[05-Oct-2020 07:12:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Doctor_model::edit_doctor() in /home/waynet/public_html/indigo/doctor_app/web/admin/application/controllers/admin/doctor.php:176
+Stack trace:
+#0 /home/waynet/public_html/indigo/doctor_app/web/admin/system/core/CodeIgniter.php(359): Doctor->get_doctor()
+#1 /home/waynet/public_html/indigo/doctor_app/web/admin/index.php(202): require_once('/home/waynet/pu...')
+#2 {main}
+  thrown in /home/waynet/public_html/indigo/doctor_app/web/admin/application/controllers/admin/doctor.php on line 176
+[31-May-2021 06:13:39 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/waynet/public_html/indigo/doctor_app/web/admin/application/views/doctor/add_doctor.php:41
+Stack trace:
+#0 /home/waynet/public_html/indigo/doctor_app/web/admin/system/core/Loader.php(833): include()
+#1 /home/waynet/public_html/indigo/doctor_app/web/admin/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/waynet/public_html/indigo/doctor_app/web/admin/application/controllers/admin/doctor.php(56): CI_Loader->view('doctor/add_doct...', Array)
+#3 /home/waynet/public_html/indigo/doctor_app/web/admin/system/core/CodeIgniter.php(359): Doctor->form('1')
+#4 /home/waynet/public_html/indigo/doctor_app/web/admin/index.php(202): require_once('/home/waynet/pu...')
+#5 {main}
+  thrown in /home/waynet/public_html/indigo/doctor_app/web/admin/application/views/doctor/add_doctor.php on line 41
+[31-May-2021 10:03:48 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/waynet/public_html/indigo/doctor_app/web/admin/application/views/admin/bookings.php on line 66
+[31-May-2021 10:03:51 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/waynet/public_html/indigo/doctor_app/web/admin/application/views/admin/bookings.php on line 66
+[31-May-2021 10:03:53 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/waynet/public_html/indigo/doctor_app/web/admin/application/views/admin/bookings.php on line 66
+[31-May-2021 16:47:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/waynet/public_html/indigo/doctor_app/web/admin/application/views/admin/about.php on line 113
+[31-May-2021 16:47:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/waynet/public_html/indigo/doctor_app/web/admin/application/views/admin/about.php on line 113
+[03-Jun-2021 11:31:51 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/waynet/public_html/cureez/admin/application/views/doctor/form.php:242
+Stack trace:
+#0 /home/waynet/public_html/cureez/admin/system/core/Loader.php(833): include()
+#1 /home/waynet/public_html/cureez/admin/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/waynet/public_html/cureez/admin/application/controllers/admin/doctor.php(66): CI_Loader->view('doctor/form', Array)
+#3 /home/waynet/public_html/cureez/admin/system/core/CodeIgniter.php(359): Doctor->add()
+#4 /home/waynet/public_html/cureez/admin/index.php(202): require_once('/home/waynet/pu...')
+#5 {main}
+  thrown in /home/waynet/public_html/cureez/admin/application/views/doctor/form.php on line 242
+[22-Jun-2021 05:43:16 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Doctor::getDoctorId(), 0 passed in /home/waynet/public_html/cureez/admin/system/core/CodeIgniter.php on line 359 and exactly 1 expected in /home/waynet/public_html/cureez/admin/application/controllers/admin/doctor.php:70
+Stack trace:
+#0 /home/waynet/public_html/cureez/admin/system/core/CodeIgniter.php(359): Doctor->getDoctorId()
+#1 /home/waynet/public_html/cureez/admin/index.php(202): require_once('/home/waynet/pu...')
+#2 {main}
+  thrown in /home/waynet/public_html/cureez/admin/application/controllers/admin/doctor.php on line 70
